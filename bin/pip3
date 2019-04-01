@@ -1,4 +1,4 @@
-#!/Users/kynguyen/Documents/psql-farm/postgresql/bin/python3
+#!/Users/kynguyen/Documents/psql-farm/postgresql/bin/python
 
 # -*- coding: utf-8 -*-
 import re
